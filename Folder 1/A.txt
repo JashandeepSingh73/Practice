@@ -1,2 +1,1 @@
-This file is in Branch2.
-Aabbccdd
+Text in Branch1.
